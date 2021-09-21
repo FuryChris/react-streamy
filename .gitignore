@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /api/node_modules
+/api/db.json
 /api/rtmpserver/node_modules
 /client/node_modules
 /.pnp
