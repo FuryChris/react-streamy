@@ -11,8 +11,8 @@
     "install-api": "cd api && npm install",
     "install-api-rtmpserver": "cd api/rtmpserver && npm install",
     "start": "start npm run client && start npm run server && start npm run rtmpserver ",
-    "install": "start npm run install-client && npm run install-api && npm run install-api-rtmpserver",
-    "gowno": "mkdir 'gooowno'"
+    "install": "start npm run install-client && npm run install-api && npm run install-api-rtmpserver && cd api && npm run copyDB ",
+    "copyDB": "cp __FAKEDB.json ./api/db.json"
   },
   "author": "",
   "license": "ISC"

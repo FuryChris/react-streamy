@@ -1,0 +1,10 @@
+{
+  "streams": [
+    {
+      "title": "Fake stream",
+      "description": "This is a great stream.",
+      "id": 1,
+      "userId": "fakeUserID"
+    }
+  ]
+}
