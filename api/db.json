@@ -1,34 +1,10 @@
 {
   "streams": [
     {
-      "title": "Trying Patch Requests",
-      "description": "Trying Patch Request",
-      "userId": "109842580057048913331",
-      "id": 4
-    },
-    {
-      "title": "I created this stream",
-      "description": "This was made by myself",
-      "userId": "1093842580057048913331",
-      "id": 5
-    },
-    {
-      "title": "Unexpected Behavior!",
-      "description": "Didn't expect that!!!",
-      "userId": "1039842580057048913331",
-      "id": 6
-    },
-    {
-      "title": "I hope u redirect",
-      "description": "Yes u did!",
-      "userId": "2109842580057048913331",
-      "id": 7
-    },
-    {
-      "title": "Component Reuse!",
-      "description": "Watch how badly smoooth!",
-      "userId": "1209842580057048913331",
-      "id": 9
+      "title": "Fake stream",
+      "description": "This is a great stream.",
+      "id": 1,
+      "userId": "fakeUserID"
     }
   ]
 }
