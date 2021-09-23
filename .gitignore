@@ -27,3 +27,4 @@ yarn-error.log*
 
 client/prywatne.txt
 api/db.json
+db.json
